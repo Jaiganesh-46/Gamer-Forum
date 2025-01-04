@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.heading-bgContainer {
+    background-image: url("https://wallpaperaccess.com/full/293324.png");
+    background-size: cover;
+}
+
+.main-heading {
+    font-family: "Sans-Serif";
+    font-weight: bold;
+    text-align: center;
+    font-size: 45px;
+    color: #90e0ef;
+    font-style: italic;
+}
+
+button {
+    width: 100px;
+    margin: 0;
+    border-style: solid;
+    border-width: 1;
+    border-color: #586f7c;
+    font-family: "Sans-Serif";
+    color: #14213d;
+    background-color: #edf2fb;
+}
+
+.games-container {
+    background-color: #edf2fb;
+    background-size: cover;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-color: #f6fff8;
+    border-style: solid;
+    padding: 25px;
+}
+
+.game-detail {
+    background-color: #edf2fb;
+    background-size: cover;
+    padding: 20px;
+    border-color: #90e0ef;
+    border-style: solid;
+    margin-bottom: 30px;
+}
+
+.image {
+    height: 180px;
+    width: 250px;
+    background-size: cover;
+}
+
+h1 {
+    font-family: "Sans-Serif";
+    font-size: 30px;
+    font-weight: bold;
+    color: #023e8a;
+}
+
+p {
+    font-family: "Roboto";
+    font-size: 13px;
+    color: #0077b6;
+}
+
+.span-text {
+    font-family: "Sans-Serif";
+    font-size: 22px;
+    color: #5cb646;
+    font-weight: 800;
+}
+
+.btn {
+    height: 30px;
+    width: 30px;
+    color: #14213d;
+}
+
+.head-details {
+    font-family: "Sans-Serif";
+    font-size: 35px;
+    font-weight: bold;
+    color: #000000;
+    text-align: center;
+}
+
+.btn-details {
+    font-family: "Roboto";
+    font-size: 20px;
+    padding: 8px;
+    width: 220px;
+    margin: 10px;
+    background-color: #16db65;
+    color: #ffffff;
+    border-color: #edf2fb;
+    border-radius: 10px;
+}
+
+.image-details {
+    height: 550px;
+    width: 400px;
+}
+
+li {
+    font-family: "Roboto";
+    font-size: 17px;
+    color: #22333b;
+}
+
+.image-details1 {
+    height: 600px;
+    width: 700px;
+}
